@@ -114,6 +114,6 @@ If you are looking for someone who has technical skills and is also able to work
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hec7orci7o/hec7orci7o/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/hec7orci7o/hec7orci7o/blob/output/snake.svg" alt="Snake animation" />
 
 ###
