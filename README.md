@@ -1,5 +1,5 @@
 <h2 align="left">
-Hi, I'm Héctor and I'm a computer engineering student based in Zaragoza, Spain.
+Hi, I'm Héctor
 </h2>
 
 <br clear="both">
