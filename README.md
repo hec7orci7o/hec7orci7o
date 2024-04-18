@@ -99,7 +99,50 @@ If you are looking for someone who has technical skills and is also able to work
 
 | name | description |
 | ---- | ----------- |
-|      |             |
+| **development** | |
+| [adidas-api-guidelines] | Adidas API Guidelines |
+| [microsoft-api-guidelines] |  Microsoft REST API Guidelines |
+| [design-patterns] | Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics. |
+| [realworld] | Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more  |
+| [clone-wars] | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.  | 
+| **cheatsheets** | |
+| [devhints] | A ridiculous collection of web development cheatsheets. |
+| [quick-reference] | More cheatsheets. |
+| **tools** | |
+| [cyberchef] | A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages. |
+| [transform-tools] | A polyglot web converter that's going to save you a lot of time. |
+| [regex] | Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java, C#/.NET, Rust. |
+| [regex-visualizer] | regular expression visualizer. |
+| [explainshell] | Match command-line arguments to their help text. |
+| **training** | |
+| [hackthebox] | n online cybersecurity training platform allowing IT professionals to advance their ethical hacking skills |
+| [tryhackme] | TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs, all through your browser! |
+| [overthewire] | |
+| [sadservers] | |
+| [leetcode] | |
+| [vulnlab] | |
+| [portswigger] | |
+| [eksclustergames] | |
 
+[adidas-api-guidelines]: https://adidas.gitbook.io/api-guidelines
+[microsoft-api-guidelines]: https://github.com/microsoft/api-guidelines
+[transform-tools]: https://transform.tools/
+[design-patterns]: https://refactoring.guru/es
+[realworld]: https://github.com/gothinkster/realworld
+[regex]: https://regex101.com/
+[regex-visualizer]: https://jex.im/regulex
+[cyberchef]: https://gchq.github.io/CyberChef/
+[devhints]: https://devhints.io/
+[quick-reference]: https://quickref.me/index.html
+[explainshell]: https://explainshell.com/
+[hackthebox]: https://www.hackthebox.com/
+[tryhackme]: https://tryhackme.com/
+[overthewire]: https://overthewire.org/wargames/
+[sadservers]: https://sadservers.com/scenarios
+[leetcode]: https://leetcode.com/
+[vulnlab]: https://www.vulnlab.com/
+[portswigger]: https://portswigger.net/web-security/all-labs
+[eksclustergames]: https://eksclustergames.com/
+[clone-wars]: https://github.com/GorvGoyl/Clone-Wars
 
 <img src="https://github.com/hec7orci7o/hec7orci7o/blob/output/snake.svg" alt="Snake animation" />
