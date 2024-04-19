@@ -117,12 +117,12 @@ If you are looking for someone who has technical skills and is also able to work
 | **training** | |
 | [hackthebox] | n online cybersecurity training platform allowing IT professionals to advance their ethical hacking skills |
 | [tryhackme] | TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs, all through your browser! |
-| [overthewire] | |
-| [sadservers] | |
-| [leetcode] | |
-| [vulnlab] | |
-| [portswigger] | |
-| [eksclustergames] | |
+| [overthewire] | Learn and practice security concepts in the form of fun-filled games. |
+| [sadservers] | Train and prove your debugging skills. |
+| [leetcode] | Enhance your skills, expand your knowledge and prepare for technical interviews |
+| [vulnlab] | Vulnlab offers a pentesting & red teaming lab environment with 100+ vulnerable machines, ranging from standalone machines to big Active Directory environments with multiple forests that require bypassing modern defenses. The labs have various difficulties from easy to advanced and come with guidance in the form of notes, hints & walkthroughs. |
+| [portswigger] | From the creators of burpsuite, portswigger offers free labs where you can learn about different types of web attacks. |
+| [eksclustergames] | Identify common AWS EKS security issues and vulnerabilities and learn how to exploit them in practice. |
 
 [adidas-api-guidelines]: https://adidas.gitbook.io/api-guidelines
 [microsoft-api-guidelines]: https://github.com/microsoft/api-guidelines
