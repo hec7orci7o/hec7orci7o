@@ -21,8 +21,8 @@ If you are looking for someone who has technical skills and is also able to work
 
 <br/>
 
-![Website Badge](https://img.shields.io/badge/Website-FFFFFF?logo=hackthebox&logoColor=000&style=for-the-badge)
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)
+[![Website Badge](https://img.shields.io/badge/Website-FFFFFF?logo=hackthebox&logoColor=000&style=for-the-badge)](https://hec7orci7o.github.io/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/hec7or/)
 
 ## Languages
 
