@@ -115,7 +115,7 @@ If you are looking for someone who has technical skills and is also able to work
 | [regex-visualizer] | regular expression visualizer. |
 | [explainshell] | Match command-line arguments to their help text. |
 | **training** | |
-| [hackthebox] | n online cybersecurity training platform allowing IT professionals to advance their ethical hacking skills |
+| [hackthebox] | An online cybersecurity training platform allowing IT professionals to advance their ethical hacking skills |
 | [tryhackme] | TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs, all through your browser! |
 | [overthewire] | Learn and practice security concepts in the form of fun-filled games. |
 | [sadservers] | Train and prove your debugging skills. |
