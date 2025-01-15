@@ -1,12 +1,12 @@
 # Hi, I'm Héctor 👋
 
-I consider myself a friendly, empathetic and open-minded person. I have had the opportunity to work with people from different cultures and in different languages, which has allowed me to develop communication skills and adaptability.
+I consider myself a friendly, empathetic, and open-minded individual. I’ve had the privilege of working with people from diverse cultures and communicating in multiple languages, which has greatly enhanced my adaptability and interpersonal skills.
 
-In my free time, I like to learn new things, travel and enjoy time with my friends.
+In my free time, I enjoy learning new things, traveling, and spending quality time with friends.
 
-In the work environment, I am especially attracted to fields such as cybersecurity, cloud architecture design. In addition, I have experience in full stack development and data analysis, which allows me to have a complete vision of the projects I work on and develop effective strategies for their implementation.
+Professionally, I’m particularly drawn to areas like cybersecurity and cloud architecture design. I also have experience in full-stack development and data analysis, which gives me a well-rounded perspective on projects and the ability to devise effective implementation strategies.
 
-If you are looking for someone who has technical skills and is also able to work in a team and communicate effectively, feel free to contact me - I'm excited to explore new opportunities and collaborate on interesting projects!
+If you’re looking for someone with strong technical expertise, excellent teamwork, and effective communication skills, feel free to reach out. I’m eager to explore new opportunities and collaborate on exciting projects!
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/hec7orci7o/count.svg?"  />
