@@ -5,7 +5,7 @@ Check out my [portfolio](https://hectortoral.com).
 
 ![Hec7orci7o HTB Badge](https://www.hackthebox.eu/badge/image/701907)
 
-[![SkillIcons](https://skillicons.dev/icons?i=kali,bash,py,postman,docker,aws,azure,cloudflare,nextjs,express,mongodb,js,astro,vscode,figma)](https://hectortoral.com)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=kali,bash,py,js,postman,docker,aws,azure,cloudflare,astro,nextjs,express,mongodb,vscode,figma)](https://hectortoral.com)<br/>
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/277477723302133762?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/277477723302133762)
